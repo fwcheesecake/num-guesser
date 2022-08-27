@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NumGuesser</string>
+    <string name="challenging_text">I can guess any number you\'re thinking, wanna try?</string>
+    <string name="pls_text">Please, enter the range in which your number is</string>
+    <string name="continue_button_text">Continue</string>
+    <string name="minimum_range_text">Minimum range</string>
+    <string name="maxumum_range_text">Maxumum range</string>
+</resources>
